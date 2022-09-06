@@ -1,0 +1,25 @@
+Dólar Comercial: 5,4970Dólar PTAX: 5,4750Dólar Turismo: 5,7076Euro Comercial: 5,6127Euro x Dólar: 1,0202Dólar Comercial: 5,4970
+Dólar PTAX: 5,4750
+Dólar Turismo: 5,7076
+Euro Comercial: 5,6127
+Euro x Dólar: 1,0202
+Dólar Comercial: 5,1128
+Dólar PTAX: 5,1247
+Dólar Turismo: 5,3150
+Euro Comercial: 5,2113
+Euro x Dólar: 1,0207
+Dólar Comercial: 5,1123
+Dólar PTAX: 5,1247
+Dólar Turismo: 5,3147
+Euro Comercial: 5,2111
+Euro x Dólar: 1,0207
+Dólar Comercial: 5,1291
+Dólar PTAX: 5,1224
+Dólar Turismo: 5,3305
+Euro Comercial: 5,2357
+Euro x Dólar: 1,0228
+Dólar Comercial: 5,1291
+Dólar PTAX: 5,1224
+Dólar Turismo: 5,3305
+Euro Comercial: 5,2357
+Euro x Dólar: 1,0228
