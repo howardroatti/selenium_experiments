@@ -14,7 +14,7 @@ def test_eight_components():
     # Janela em modo anônimo
     options = Options()
     options.add_argument("--incognito")
-    options.headless = True
+    options.add_argument('-headless')
     
     browser = webdriver.Firefox(service=service, options=options)
 
