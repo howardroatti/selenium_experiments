@@ -10,7 +10,7 @@ exe_path = GeckoDriverManager().install()
 service=Service(exe_path)
 options = Options()
 # Esconde o navegador
-options.headless = True
+options.add_argument('-headless')
 browser = webdriver.Firefox(service=service, options=options)
 
 while(True):
